@@ -20,11 +20,11 @@ RViz2 is required for visualization.
 
 The included `.rviz` file (`rviz/drone_slam_vs_mocap.rviz`) sets up visualization of:
 
-  - `SLAM paths
+  - SLAM paths
 
-  - `Mocap paths
+  - Mocap paths
 
-  - `Current positions
+  - Current positions
 
 ## Clone and Build Instruction
 Change your directory to your ROS2 workspace on the local computer:
